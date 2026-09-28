@@ -18,7 +18,8 @@ public class InsertionSort{
                     j = j - 1;
                 } else{
                     break;
-                }
+                } 
+                
             }
             serviceTimes[j + 1] = temp;
             if (i <= 3){
