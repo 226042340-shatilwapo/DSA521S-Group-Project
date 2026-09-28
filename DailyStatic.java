@@ -1,6 +1,6 @@
 public class DailyStatic {
     public static void main(String[] args) {
-        int [] serviceTimes = {12, 5, 8, 4};
+        int [] serviceTimes = {17, 5, 23, 8, 14, 3, 11, 20, 6, 9};
 
         int totalStudents = 0;
         int totalServiceTime = 0;
