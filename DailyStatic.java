@@ -26,7 +26,7 @@ public class DailyStatic {
             if (time > 10){
                 longerthan10++;
             }
-            
+               
         }
         double averageServiceTime = (double) totalServiceTime / totalStudents;
 
